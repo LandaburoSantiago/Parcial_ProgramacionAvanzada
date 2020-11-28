@@ -1,0 +1,11 @@
+.card{
+    width: 18rem;
+}
+
+.card .mb-3{
+    max-width: 540px;
+}
+
+.card-body .condicion-text{
+    color: green;
+}

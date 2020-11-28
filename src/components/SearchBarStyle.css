@@ -1,0 +1,44 @@
+.search-container{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.search-input{
+    height: 50px;
+    width: 600px;
+    border-radius: 10px;
+    border: solid;
+    border-color: rgb(219, 190, 190);
+    opacity: 0.8;
+}
+
+.search-button-container button{
+    height: 50px;
+}
+
+.search-input input:focus{border: none;}
+.search-input input:active{border: none}
+
+.radios-precios{
+    display: flex;
+    justify-content: center;
+}
+
+.radios-precios .form-check{
+
+    padding-left: 40px;
+}
+
+.radios-condicion{
+    display: flex;
+    justify-content: center;
+}
+
+.radios-condicion .form-check{
+    padding-left: 40px;
+}
+.paginacion{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
